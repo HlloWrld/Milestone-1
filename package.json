@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "unzip.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-png": "^0.4.3",
+    "path": "^0.12.7",
+    "pngjs": "^3.4.0",
+    "stream": "0.0.2",
+    "unzip": "^0.1.11",
+    "unzipper": "^0.10.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --env node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
